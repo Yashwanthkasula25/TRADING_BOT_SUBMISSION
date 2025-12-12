@@ -1,0 +1,6 @@
+$ python main.py --mock --symbol BTCUSDT --side BUY --type MARKET --quantity 0.001
+{'mock': True}
+$ python main.py --mock --symbol BTCUSDT --side BUY --type TWAP --quantity 0.01 --twap-slices 3 --twap-duration 30
+{'mock': True}
+{'mock': True}
+{'mock': True}

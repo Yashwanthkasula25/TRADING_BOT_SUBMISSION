@@ -1,0 +1,2 @@
+2025-11-25 10:52:25,632 [INFO] Bot initialized in MOCK MODE (no API needed)
+2025-11-25 10:52:25,632 [INFO] [MOCK] Order placed -> {'symbol': 'BTCUSDT', 'side': 'SELL', 'type': 'MARKET', 'origQty': 10.0, 'price': 'MARKET', 'status': 'FILLED', 'orderId': 10001, 'clientOrderId': 'mock-10001'}
